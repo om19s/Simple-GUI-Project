@@ -1,4 +1,5 @@
 from tkinter import *
+# عمر احمد احمد احمد الغمراوي
 
 counter = 0
 
@@ -32,3 +33,4 @@ mybutton = Button(
 mybutton.pack(pady=10)
 
 myframe.mainloop()
+
